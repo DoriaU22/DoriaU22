@@ -40,7 +40,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 
 ## 🤝 How to Reach Me
 
-- **Email:** *dariodoria4@gmail.com*  
+- **Email:** *ustadoria@gmail.com*  
 - **LinkedIn:** [Linkedin Darío](https://www.linkedin.com/in/dario-doria-b547a3277)  
 
 
