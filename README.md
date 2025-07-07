@@ -32,7 +32,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 | Project | Description |
 |---------|-------------|
 | **Traveling Salesperson GA** | A genetic algorithm in Python that finds near‑optimal routes in TSP instances. Applied to logistics contexts within Industrial Engineering. |
-| **Warehouse Location Optimizer** | Mixed‑integer programming & memetic algorithms to decide optimal warehouse sites in Montería, CO. |
+| **Warehouse Location Optimizer** | Mixed‑integer programming & memetic algorithms in Python to decide optimal warehouse sites in Montería, CO. |
 | **Pix2PixHD RGB→NIR** | A research project where I adapt and re‑implement the Pix2PixHD model in PyTorch to generate near‑infrared images from RGB input. The goal is to explore the use of GANs in multispectral image translation. |
 | **Yolov3** | Research project in which I implement yolov3 to analyze its impact on Vehicle Management. |
 
