@@ -1,6 +1,6 @@
 # Hi, I'm **Darío Doria Usta** 👋
 
-> *Industrial Engineering student | Aspiring Data Scientist & AI Researcher*
+> *Industrial Engineering student | passionate about AI and ML*
 
 ---
 
