@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧑🏻‍💻 About Me
 
 I am currently in my **9th semester of Industrial Engineering** and am passionate about leveraging data to solve complex problems. My academic background combines strong fundamentals in mathematics, optimization and statistics with hands-on coding experience in Python. I enjoy building machine learning models, experimenting with genetic algorithms applied to **logistics and routing problems in Industrial Engineering**, and implementing deep learning models using generative adversarial networks (GANs) for precision agriculture.
 
@@ -14,7 +14,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 | **🌎 Languages** | Spanish (native), English (B1+) |
 | **📌 Location** | Colombia|
 
-## 🛠️ Technical Skills
+## 💻 Technical Skills 
 
 - **Programming:** Python, basic R, SQL (learning), NoSQL (learning)
 - **Data Science & ML:** pandas, NumPy, scikit‑learn, TensorFlow, PyTorch
@@ -22,12 +22,12 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 - **Visualization & BI:** Matplotlib, Seaborn, Power BI
 - **Other Tools:** Jupyter, VS Code, Pycharm, Rstudio
 
-## 📚 Currently Learning
+## 🌐 Currently Learning
 
 - Git & GitHub workflow best practices
 - Cloud fundamentals for data projects
 
-## 🔭 Featured Projects
+## 💡 Featured Projects
 
 | Project | Description |
 |---------|-------------|
@@ -38,7 +38,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 
 <!-- Add more project links or pin them on your GitHub profile -->
 
-## 🤝 How to Reach Me
+## 📲 How to Reach Me
 
 - **Email:** *ustadoria@gmail.com*  
 - **LinkedIn:** [Linkedin Darío](https://www.linkedin.com/in/dario-doria-b547a3277)  
