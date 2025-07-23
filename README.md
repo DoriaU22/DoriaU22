@@ -16,7 +16,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 
 ## 💻 Technical Skills 
 
-- **Programming:** Python, basic R, SQL (learning), NoSQL (learning)
+- **Programming:** Python, basic R, SQL, NoSQL (learning)
 - **Data Science & ML:** pandas, NumPy, scikit‑learn, TensorFlow, PyTorch
 - **Optimization:** GurobiPy, metaheuristics (genetic & memetic algorithms)
 - **Visualization & BI:** Matplotlib, Seaborn, Power BI
