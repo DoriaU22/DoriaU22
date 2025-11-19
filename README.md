@@ -6,7 +6,7 @@
 
 ## 🧑🏻‍💻 About Me
 
-I am currently in my **9th semester of Industrial Engineering** and am passionate about leveraging data to solve complex problems. My academic background combines strong fundamentals in mathematics, optimization and statistics with hands-on coding experience in Python. I enjoy building machine learning models, experimenting with genetic algorithms applied to **logistics and routing problems in Industrial Engineering**, and implementing deep learning models using generative adversarial networks (GANs) for precision agriculture.
+I am Industrial Engineering and am passionate about leveraging data to solve complex problems. My academic background combines strong fundamentals in mathematics, optimization and statistics with hands-on coding experience in Python. I enjoy building machine learning models, experimenting with genetic algorithms applied to **logistics and routing problems in Industrial Engineering**, and implementing deep learning models using generative adversarial networks (GANs) for precision agriculture.
 
 | | |
 |---|---|
