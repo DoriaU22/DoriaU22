@@ -10,7 +10,7 @@ I am currently in my **9th semester of Industrial Engineering** and am passionat
 
 | | |
 |---|---|
-| **🎓 Education** | Industrial Engineering (expected 2025) |
+| **🎓 Education** | Industrial Engineering |
 | **🌎 Languages** | Spanish (native), English (B2) |
 | **📌 Location** | Colombia|
 
