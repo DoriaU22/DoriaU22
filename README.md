@@ -33,9 +33,9 @@ I am Industrial Engineering and am passionate about leveraging data to solve com
 |---------|-------------|
 | **Traveling Salesperson GA** | A genetic algorithm in Python that finds near‑optimal routes in TSP instances. Applied to logistics contexts within Industrial Engineering. |
 | **Warehouse Location Optimizer** | Mixed‑integer programming & memetic algorithms in Python to decide optimal warehouse sites in Montería, CO. |
-| **Pix2PixHD RGB-NIR** | A research project where I adapt and re‑implement the Pix2PixHD model in PyTorch to generate near‑infrared images from RGB input. The goal is to explore the use of GANs in multispectral image translation. |
+| **Pix2PixHD RGB-NIR** | A research project where I adapt and re‑implement the Pix2PixHD model in PyTorch to generate near‑infrared images from RGB input. The goal is to explore the use of GANs in multispectral image translation. https://doi.org/10.3390/technologies13120569|
 | **YOLOv3** | Research project in which I implement yolov3 to analyze its impact on Vehicle Management. |
-| **YOLOv3, YOLOv5 and YOLOv8** | Research project comparing YOLOv3, YOLOv5, and YOLOv8 to evaluate their performance and determine which architecture is best suited for real-world urban environments for future implementation of intelligent traffic management. |
+| **YOLOv3, YOLOv5 and YOLOv8** | Research project comparing YOLOv3, YOLOv5, and YOLOv8 to evaluate their performance and determine which architecture is best suited for real-world urban environments for future implementation of intelligent traffic management. https://doi.org/10.3390/futuretransp5040191|
 <!-- Add more project links or pin them on your GitHub profile -->
 
 ## 📲 How to Reach Me
