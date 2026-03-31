@@ -1,7 +1,7 @@
 # Hi, I'm **Darío Doria Usta** 👋
 
-> *Industrial Engineering | UPB-COL 🇨🇴*
-> *M.sc. Student in Computer Science | UFRGS-BR 🇧🇷*
+> *Industrial Engineering | UPB-COL 🇨🇴 Colombia*
+> *M.sc. Student in Computer Science | UFRGS-BR 🇧🇷 Brasil*
 > *Passionate about AI and ML*
 
 ---
