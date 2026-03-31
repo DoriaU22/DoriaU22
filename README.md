@@ -1,6 +1,8 @@
 # Hi, I'm **Darío Doria Usta** 👋
 
-> *Industrial Engineering student | passionate about AI and ML*
+> *Industrial Engineering | UPB-COL 🇨🇴*
+> *M.sc. Student in Computer Science | UFRGS-BR 🇧🇷*
+> *Passionate about AI and ML*
 
 ---
 
