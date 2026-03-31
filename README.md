@@ -1,52 +1,120 @@
-# Hi, I'm **Darío Doria Usta** 👋
+# Hi, I'm **Darío Doria Usta** 👋
 
-> *Industrial Engineering | UPB-COL 🇨🇴 Colombia*
-> *M.sc. Student in Computer Science | UFRGS-BR 🇧🇷 Brasil*
-> *Passionate about AI and ML*
+🎓 *Industrial Engineer | UPB 🇨🇴 Colombia*
+🧠 *M.Sc. Student in Computer Science | UFRGS 🇧🇷 Brazil*
+🤖 *Focused on AI, Machine Learning & Optimization*
 
 ---
 
 ## 🧑🏻‍💻 About Me
 
-I am Industrial Engineering and am passionate about leveraging data to solve complex problems. My academic background combines strong fundamentals in mathematics, optimization and statistics with hands-on coding experience in Python. I enjoy building machine learning models, experimenting with genetic algorithms applied to **logistics and routing problems in Industrial Engineering**, and implementing deep learning models using generative adversarial networks (GANs) for precision agriculture.
+I am an Industrial Engineer with a strong interest in **Artificial Intelligence, Machine Learning, and Optimization**.
 
-| | |
-|---|---|
-| **🎓 Education** | Industrial Engineering |
-| **🌎 Languages** | Spanish (native), English (B2) |
-| **📌 Location** | Colombia|
+My work focuses on combining **mathematical modeling, data-driven approaches, and computational methods** to solve real-world problems—especially in **logistics, routing, and intelligent systems**.
 
-## 💻 Technical Skills 
+I have experience developing:
 
-- **Programming:** Python, basic R, SQL, NoSQL (learning)
-- **Data Science & ML:** Pandas, NumPy, scikit‑learn, TensorFlow, PyTorch
-- **Optimization:** GurobiPy, metaheuristics (genetic, memetic algorithms, etc)
-- **Visualization & BI:** Matplotlib, Seaborn, Plotly, Power BI
-- **Other Tools:** Jupyter, VS Code, Pycharm, Rstudio
+* Machine Learning models
+* Metaheuristic algorithms (Genetic & Memetic)
+* Optimization models (MIP with Gurobi)
+* Deep Learning solutions (GANs, Computer Vision)
 
-## 🌐 Currently Learning
-
-- Git & GitHub workflow best practices
-- Cloud fundamentals for data projects
-
-## 💡 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Traveling Salesperson GA** | A genetic algorithm in Python that finds near‑optimal routes in TSP instances. Applied to logistics contexts within Industrial Engineering. |
-| **Warehouse Location Optimizer** | Mixed‑integer programming & memetic algorithms in Python to decide optimal warehouse sites in Montería, CO. |
-| **Pix2PixHD RGB-NIR** | A research project where I adapt and re‑implement the Pix2PixHD model in PyTorch to generate near‑infrared images from RGB input. The goal is to explore the use of GANs in multispectral image translation. https://doi.org/10.3390/technologies13120569|
-| **YOLOv3** | Research project in which I implement yolov3 to analyze its impact on Vehicle Management. |
-| **YOLOv3, YOLOv5 and YOLOv8** | Research project comparing YOLOv3, YOLOv5, and YOLOv8 to evaluate their performance and determine which architecture is best suited for real-world urban environments for future implementation of intelligent traffic management. https://doi.org/10.3390/futuretransp5040191|
-<!-- Add more project links or pin them on your GitHub profile -->
-
-## 📲 How to Reach Me
-
-- **Email:** *ustadoria@gmail.com*  
-- **LinkedIn:** [Linkedin Darío](https://www.linkedin.com/in/dario-doria-b547a3277)  
-
-
-Feel free to connect, ask questions, or collaborate on interesting data projects!
+I am particularly interested in **research-oriented projects** and applying AI to **transportation, smart cities, and agriculture**.
 
 ---
 
+## 🎓 Education
+
+* 🎓 Industrial Engineering — UPB (Colombia)
+* 🧠 M.Sc. in Computer Science — UFRGS (Brazil) *(ongoing)*
+
+---
+
+## 🌎 Languages
+
+* Spanish — Native
+* English — B2
+
+---
+
+## 📍 Location
+
+Colombia 🇨🇴
+
+---
+
+## 💻 Technical Skills
+
+### 🧑‍💻 Programming
+
+* Python (Advanced)
+* R (Basic)
+* SQL / NoSQL (Learning)
+
+### 📊 Data Science & Machine Learning
+
+* Pandas, NumPy
+* Scikit-learn
+* TensorFlow, PyTorch
+
+### ⚙️ Optimization
+
+* GurobiPy
+* Metaheuristics (Genetic Algorithms, Memetic Algorithms)
+
+### 📈 Visualization & BI
+
+* Matplotlib, Seaborn, Plotly
+* Power BI
+
+### 🛠 Tools
+
+* Jupyter Notebook
+* VS Code, PyCharm
+* RStudio
+* Git & GitHub
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Git & GitHub workflows
+* Cloud computing for data science (AWS / GCP fundamentals)
+* Scalable ML systems
+
+---
+
+## 💡 Featured Projects
+
+### 🚚 Traveling Salesperson GA
+
+Genetic Algorithm in Python to solve TSP instances with near-optimal solutions, applied to logistics optimization.
+
+### 🏭 Warehouse Location Optimizer
+
+Mixed-Integer Programming + Memetic Algorithms to determine optimal warehouse locations in Montería, Colombia.
+
+### 🌾 Pix2PixHD RGB → NIR
+
+Re-implementation of Pix2PixHD in PyTorch for multispectral image translation (RGB to Near-Infrared).
+🔗 https://doi.org/10.3390/technologies13120569
+
+### 🚗 YOLOv3 – Vehicle Management
+
+Implementation of YOLOv3 to analyze its impact on vehicle detection and traffic systems.
+
+### 🚦 YOLOv3 vs YOLOv5 vs YOLOv8
+
+Comparative research evaluating performance across YOLO architectures for intelligent traffic systems.
+🔗 https://doi.org/10.3390/futuretransp5040191
+
+---
+
+## 📲 Contact
+
+📧 Email: [ustadoria@gmail.com](mailto:ustadoria@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/dario-doria-b547a3277
+
+---
+
+⭐ *Open to collaboration in AI, Optimization, and Data Science projects*
