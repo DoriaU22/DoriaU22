@@ -1,8 +1,8 @@
 # Hi, I'm **Darío Doria Usta** 👋
 
-🎓 *Industrial Engineer | UPB 🇨🇴 Colombia*
-🧠 *M.Sc. Student in Computer Science | UFRGS 🇧🇷 Brazil*
-🤖 *Focused on AI, Machine Learning & Optimization*
+🎓 Industrial Engineer | UPB 🇨🇴 Colombia
+🧠 M.Sc. Student in Computer Science | UFRGS 🇧🇷 Brazil
+🤖 Focused on AI, Machine Learning & Optimization
 
 ---
 
@@ -12,7 +12,7 @@ I am an Industrial Engineer with a strong interest in **Artificial Intelligence,
 
 My work focuses on combining **mathematical modeling, data-driven approaches, and computational methods** to solve real-world problems—especially in **logistics, routing, and intelligent systems**.
 
-I have experience developing:
+### 🚀 Experience
 
 * Machine Learning models
 * Metaheuristic algorithms (Genetic & Memetic)
@@ -96,7 +96,7 @@ Mixed-Integer Programming + Memetic Algorithms to determine optimal warehouse lo
 
 ### 🌾 Pix2PixHD RGB → NIR
 
-Re-implementation of Pix2PixHD in PyTorch for multispectral image translation (RGB to Near-Infrared).
+Re-implementation of Pix2PixHD in PyTorch for multispectral image translation (RGB → Near-Infrared).
 🔗 https://doi.org/10.3390/technologies13120569
 
 ### 🚗 YOLOv3 – Vehicle Management
